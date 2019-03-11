@@ -1,0 +1,71 @@
+body{
+  background-color:green;
+  color: white;
+}
+
+header{
+border: 3px solid black;
+height: auto;
+width: auto;
+text-align: center;
+background-color: yellow;
+color: brown
+}
+
+.container{
+  padding: 50px;
+}
+
+.blankspace{
+  border: 3px solid black;
+  text-align: center;
+  font-size: 50px;
+  margin: 0 auto;
+  height: 150px;
+  width: 50%;
+
+}
+h3{
+  font-size: 40px;
+}
+
+.guesses_correct{
+  border: 3px solid black;
+  text-align: center;
+  font-size: 40px;
+  margin: 0 auto;
+  height: 150px;
+  width: 50%;
+  color: red;
+
+}
+.guesses_incorrect{
+  border: 3px solid black;
+  text-align: center;
+  font-size: 40px;
+  margin: 0 auto;
+  height: 150px;
+  width: 50%;
+  color: brown;
+
+}
+
+.wins{
+  border: 3px solid black;
+  text-align: center;
+  font-size: 40px;
+  margin: 0 auto;
+  height: 150px;
+  width: 50%;
+
+}
+
+.losses{
+  border: 3px solid black;
+  text-align: center;
+  font-size: 40px;
+  margin: 0 auto;
+  height: 150px;
+  width: 50%;
+
+}
